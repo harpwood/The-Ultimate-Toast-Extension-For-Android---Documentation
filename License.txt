@@ -1,0 +1,12 @@
+The “License”
+
+Let’s do to both of us a favor by letting me not writing 100s of legal boring words and saving you time to read them. So, a synopsis of what you can and cannot do:
+
+You can:
+•	Include the extension into your project
+•	You can use the extension to unlimited number of projects, as long as are YOUR projects
+•	Your projects that will include the extension can be either commercial or not commercial.
+•	You can modify or even extend the source code of the extension to better fit your needs
+
+You cannot:
+•	Distribute the extension. You are only allowed to use your copy. Please share the link of the extension instead -> https://harpwood.itch.io/the-ultimate-toast-extension-for-android
